@@ -14,7 +14,7 @@ output:
     self_contained: no
 # All fa icons were obtained from https://fontawesome.com/icons?d=gallery
 navbar:
-  title: "My Website"
+  title: "Bigfoot"
   left:
     - text: "Home"
       href: index.html
